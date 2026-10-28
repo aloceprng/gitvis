@@ -1,4 +1,4 @@
-module github.com/aloceprng/keyboard-first-git-visualizer/backend
+module github.com/aloceprng/gitvis/backend
 
 go 1.26.3
 

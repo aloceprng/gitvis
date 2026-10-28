@@ -4,7 +4,7 @@ import (
     "fmt"
     "testing"
     "time"
-    "github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
+    "github.com/aloceprng/gitvis/backend/internal/graph"
 )
 
 // builds a graph.Commit with only the fields the lane algorithm uses

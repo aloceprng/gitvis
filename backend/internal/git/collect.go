@@ -5,7 +5,7 @@ import (
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
 	"github.com/go-git/go-git/v5/plumbing/object"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
+	"github.com/aloceprng/gitvis/backend/internal/graph"
 )
  
 // build bidirectional commit map (each commit knows both parents and children)

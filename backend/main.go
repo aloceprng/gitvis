@@ -8,11 +8,11 @@ import (
 	"time"
 	"net/http"
 
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/git"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/search"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/server"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/watcher"
+	"github.com/aloceprng/gitvis/backend/internal/git"
+	"github.com/aloceprng/gitvis/backend/internal/graph"
+	"github.com/aloceprng/gitvis/backend/internal/search"
+	"github.com/aloceprng/gitvis/backend/internal/server"
+	"github.com/aloceprng/gitvis/backend/internal/watcher"
 	gogit "github.com/go-git/go-git/v5"
 )
 

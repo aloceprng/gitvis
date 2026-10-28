@@ -2,7 +2,7 @@ package git
  
 import (
 	"encoding/json"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
+	"github.com/aloceprng/gitvis/backend/internal/graph"
 )
  
 // walks the topologically sorted commit list, maintains the lane table, and writes lane info onto commit

@@ -3,7 +3,7 @@ package git
 import (
 	"fmt"
 	"github.com/go-git/go-git/v5/plumbing"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
+	"github.com/aloceprng/gitvis/backend/internal/graph"
 )
  
 // implements Kahn's algorithm over the commit map, where every child appears before all of its parents

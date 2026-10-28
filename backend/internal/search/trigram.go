@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 	"sync"
-	"github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
+	"github.com/aloceprng/gitvis/backend/internal/graph"
 )
  
 type Result struct {

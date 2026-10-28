@@ -5,7 +5,7 @@ import (
     "testing"
 	"time"
     "github.com/go-git/go-git/v5/plumbing"
-    "github.com/aloceprng/keyboard-first-git-visualizer/backend/internal/graph"
+    "github.com/aloceprng/gitvis/backend/internal/graph"
 )
 
 func buildTestRepo(count int) map[plumbing.Hash]*graph.Commit {
